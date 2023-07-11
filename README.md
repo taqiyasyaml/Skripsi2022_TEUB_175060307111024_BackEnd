@@ -1,7 +1,7 @@
-#Crossbarswitch
+# Crossbarswitch
 Aplikasi ini merupakan hasil skripsi di Teknik Elektro UB
 
-##instalasi
+## instalasi
 1. install nodejs dan npm
 2. buka terminal
 3. ketikkan "npm i"
@@ -11,7 +11,7 @@ Aplikasi ini merupakan hasil skripsi di Teknik Elektro UB
 7. compile frontend dengan "npm run build"
 8. duplikat folder build pada frontend ke folder public pada backend
 
-##penggunaan
+## penggunaan
 1. buka terminal
 2. ketikkan "npm run start_nodemon"
 3. buka alamat url dan gunakan tampilan sesuai naskah skripsi
